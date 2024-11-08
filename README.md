@@ -1,6 +1,7 @@
 # Blinkit-Power-Bi-Dashboard
 
 This interactive Power BI dashboard provides real-time sales performance insights, enabling data-driven decisions and strategic growth.
+
 **Data Visualization:**
 1. Maps
 2. Bar charts
